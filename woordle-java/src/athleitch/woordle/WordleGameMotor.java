@@ -16,7 +16,7 @@ public class WordleGameMotor {
 						comprobada = true;
 					}
 					else {
-					jugadaValidada[pos] = '*';	
+						jugadaValidada[pos] = '*';	
 					}
 					posComprobar++;	
 				}
